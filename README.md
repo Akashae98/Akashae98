@@ -1,20 +1,32 @@
 # 👋 Welcome! I'm Carol
 
 💫 **About Me**
-
 - Passionate developer completing a Higher National Diploma (CFGS) in Web Application Development
 - Love building applications & experimenting with architecture patterns
 - Critical thinker with a Philosophy degree
 
-🐠 **Favorite Project:**  
-[pecera](https://github.com/Akashae98/pecera)  
-An interactive aquarium simulation using JavaFX and Entity-Component-System architecture, exploring game development patterns
+🌟 **Favorite Project:**
+
+<div align="center">
+
+### 🐠 [Pecera - Interactive Aquarium Simulator](https://github.com/Akashae98/pecera)
+
+*An aquarium simulation built with JavaFX using Entity-Component-System architecture*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akashae98&repo=pecera&theme=vue&hide_border=false)](https://github.com/Akashae98/pecera)
+
+</div>
+
+**🔧 Technical Features:**
+- Entity-Component-System (ECS) pattern implementation
+- Real-time simulation with JavaFX
+- Game development pattern exploration
 
 🌱 **Current Focus:**  
 Deepening my knowledge in backend development, Php, Java, and software architecture principles.
 
 💡 **Learning Roadmap:**  
-In the coming months, I’ll be expanding my skill set to include:
+In the coming months, I'll be expanding my skill set to include:
 - Symfony and Laravel frameworks
 - RESTful API development
 - Database optimization techniques
@@ -26,6 +38,7 @@ Currently seeking an internship or entry-level opportunity in software developme
 ---
 
 ## 🚀 Tech Stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -36,23 +49,38 @@ Currently seeking an internship or entry-level opportunity in software developme
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Akashae98&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Akashae98&theme=vue&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Akashae98&theme=vue&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akashae98&theme=vue&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashae98&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
+</div>
 
 ---
 
-> ⚡ **Fun Fact:**  
-> I hold a degree in Philosophy! It taught me how to think critically and deconstruct complex problems—perfect skills for programming.
-> 
+## 🤝 Let's Connect!
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akashae98)
+
+**💌 Have an internship opportunity or interesting project?**  
+*I'd love to chat with you!*
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for visiting my profile* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akashae98&color=blueviolet&style=for-the-badge)
+
+</div>
