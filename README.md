@@ -1,11 +1,14 @@
 # 👋 Welcome! I'm Carol
 
 💫 **About Me**
-- Passionate developer completing a Higher National Diploma (CFGS) in Web Application Development
-- Love building applications & experimenting with architecture patterns
-- Critical thinker with a Philosophy degree
 
-🌟 **Favorite Project:**
+🎓 CFGS Web App Development Student  
+🤔 Philosophy Graduate turned Developer  
+🎯 Seeking internship opportunities
+
+---
+
+## 🌟 **Favorite Project:**
 
 <div align="center">
 
@@ -17,23 +20,15 @@
 
 </div>
 
-**🔧 Technical Features:**
-- Entity-Component-System (ECS) pattern implementation
-- Real-time simulation with JavaFX
-- Game development pattern exploration
+---
 
 🌱 **Current Focus:**  
 Deepening my knowledge in backend development, Php, Java, and software architecture principles.
 
-💡 **Learning Roadmap:**  
-In the coming months, I'll be expanding my skill set to include:
-- Symfony and Laravel frameworks
+💡 **In the coming months, I'll be learning:**
+- Symfony and Laravel
 - RESTful API development
 - Database optimization techniques
-- System design patterns
-
-💼 **Goals:**  
-Currently seeking an internship or entry-level opportunity in software development.
 
 ---
 
