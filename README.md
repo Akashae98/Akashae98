@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Web development student with a philosophy background. I'm passionate about writing clean code, solving complex problems, and continuous learning. Looking to combine critical thinking with technical skills to create effective solutions.
+Hi! I'm a philosophy graduate who transitioned into web development. I'm passionate about writing clean code, solving complex problems, and continuous learning. Looking to combine critical thinking with technical skills to create effective solutions.
 
 🎯 **Currently seeking internship opportunities**
 
