@@ -4,10 +4,10 @@
 
 <div align="center">
 
-### 💻 Web Application Development Student | 🎓 Philosophy Background
+### 💻 Web Application Development Student 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
-![Profile Views](https://komarev.com/ghpvc/?username=Akashae98&color=42b983&style=flat-square)
+
 
 </div>
 
@@ -16,8 +16,6 @@
 ## 👋 About Me
 
 Philosophy graduate who transitioned into web development. Passionate about writing clean code, solving complex problems, and continuous learning. Looking to combine critical thinking with technical skills to create effective solutions.
-
-🎯 **Currently seeking internship opportunities**
 
 ---
 
@@ -49,17 +47,15 @@ Philosophy graduate who transitioned into web development. Passionate about writ
 
 ---
 
-## 📖 Currently Learning
+## 📖 Learning
 
 🌱 **Second year of DAW** - Expanding my full-stack development skills  
 
 **Current focus:**
-- 🔧 **PHP** - Server-side development
-- ⚛️ **Angular** - Modern frontend framework
+- ⚛️ **Angular** 
 - 🟨 **JavaScript** - Advanced concepts and patterns
+- 🔧 **PHP** 
 - 🐧 **Linux Server Administration** - Ubuntu Server, command line, and system management
-
-💡 **Next steps:** RESTful APIs, Docker, and database optimization
 
 ---
 
@@ -67,16 +63,15 @@ Philosophy graduate who transitioned into web development. Passionate about writ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akashae98&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashae98&theme=tokyonight&hide_border=true&layout=compact"/>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akashae98&theme=tokyonight&hide_border=true)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashae98&theme=tokyonight&hide_border=true&layout=compact"/>
 
 </div>
 
 ---
 
-## 💼 Looking for Opportunities
+## 🎯 **Currently seeking internship opportunities**
 
 I'm seeking internships where I can:
 - ✅ Work on real projects with meaningful impact
@@ -92,8 +87,6 @@ I'm seeking internships where I can:
 
 ### 📫 Let's Connect!
 
-**Have an internship opportunity or interesting project?**  
-I'd love to chat with you!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolvr8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
