@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome,%20I'm%20Carol!&fontSize=40&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hi,%20I'm%20Carol!&fontSize=40&fontAlignY=35"/>
 </div>
 
 <div align="center">
 
-### 💻 Web Application Development Student 
+### Web Application Development Student 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
 
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Philosophy graduate who transitioned into web development. Passionate about writing clean code, solving complex problems, and continuous learning. Looking to combine critical thinking with technical skills to create effective solutions.
+Philosophy graduate who transitioned into web development. Passionate about writing clean code, solving complex problems, and continuous learning. 
 
 ---
 
@@ -47,9 +47,7 @@ Philosophy graduate who transitioned into web development. Passionate about writ
 
 ---
 
-## 📖 Learning
-
-🌱 **Second year of DAW** - Expanding my full-stack development skills  
+## 📖 Learning- Student of second year of DAW
 
 **Current focus:**
 - ⚛️ **Angular** 
@@ -71,14 +69,14 @@ Philosophy graduate who transitioned into web development. Passionate about writ
 
 ---
 
-## 🎯 **Currently seeking internship opportunities**
+## 🎯 **Seeking internship opportunities**
 
 I'm seeking internships where I can:
 - ✅ Work on real projects with meaningful impact
 - ✅ Collaborate with teams using best practices
 - ✅ Continue learning and growing professionally
 
-📍 **Barcelona, Spain** | On-site / Hybrid / Remote  
+📍 **Viladecans, Barcelona, Spain** | On-site / Hybrid / Remote  
 📅 **Availability:** Immediate
 
 ---
@@ -87,13 +85,13 @@ I'm seeking internships where I can:
 
 ### 📫 Let's Connect!
 
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolvr8@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
 
----
 
 *Thanks for visiting my profile* ✨
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
