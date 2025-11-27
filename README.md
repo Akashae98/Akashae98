@@ -17,7 +17,7 @@
 
 Philosophy graduate who transitioned into web development. Passionate about writing clean code, solving complex problems, and continuous learning. 
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -29,7 +29,7 @@ Philosophy graduate who transitioned into web development. Passionate about writ
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 🌟 Featured Project
 
@@ -55,7 +55,7 @@ Philosophy graduate who transitioned into web development. Passionate about writ
 - 🔧 **PHP** 
 - 🐧 **Linux Server Administration** - Ubuntu Server, command line, and system management
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -79,7 +79,7 @@ I'm seeking internships where I can:
 📍 **Viladecans, Barcelona, Spain** | On-site / Hybrid / Remote  
 📅 **Availability:** Immediate
 
----
+
 
 <div align="center">
 
