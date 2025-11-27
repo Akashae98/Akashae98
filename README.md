@@ -1,98 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hi,%20I'm%20Carol!&fontSize=40&fontAlignY=35"/>
-</div>
 
-<div align="center">
+# Hi, I'm Carol! 👋
 
-### Web Application Development Student 
+*Philosophy → Code* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolvr8@gmail.com)
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## 📝 About Me
 
-Philosophy graduate who transitioned into web development. Passionate about writing clean code, solving complex problems, and continuous learning. 
+Philosophy graduate who transitioned into web development. I'm passionate about writing clean code, solving complex problems, and continuous learning. Currently in my second year of DAW, seeking opportunities to grow professionally while contributing to meaningful projects.
 
+<br>
 
+## 🛠️ Tech Stack
 
-## 🚀 Tech Stack
+**Backend & Database**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Tools & Other**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br>
 
 ## 🌟 Featured Project
 
-<div align="center">
-
 ### 🐠 [Interactive Aquarium Simulator](https://github.com/Akashae98/pecera)
 
-*An aquarium simulation built with JavaFX exploring design patterns and architecture*
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Akashae98&repo=pecera&theme=tokyonight&hide_border=true)](https://github.com/Akashae98/pecera)
+An aquarium simulation built with JavaFX that explores design patterns and object-oriented architecture. This project demonstrates my understanding of clean code principles and software design.
 
 **Stack:** Java • JavaFX • OOP • Design Patterns
 
-</div>
+<br>
 
----
+## 📚 Currently Learning
 
-## 📖 Learning- Student of second year of DAW
+Second year DAW student focused on expanding my full-stack capabilities:
 
-**Current focus:**
-- ⚛️ **Angular** 
-- 🟨 **JavaScript** - Advanced concepts and patterns
-- 🔧 **PHP** 
-- 🐧 **Linux Server Administration** - Ubuntu Server, command line, and system management
+- **Angular** 
+- **JavaScript** 
+- **PHP** 
+- **Linux Server Administration** — Ubuntu Server, command line, and system management
 
-
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akashae98&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashae98&show_icons=true&theme=default&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashae98&theme=tokyonight&hide_border=true&layout=compact"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashae98&layout=compact&theme=default&hide_border=true)
 
 </div>
 
+<br>
+
+## 💼 Seeking Opportunities
+
+I'm actively seeking internship positions where I can:
+
+- Work on real projects with meaningful impact
+- Collaborate with teams using industry best practices
+- Continue learning and growing as a developer
+
+**📍 Location:** Viladecans, Barcelona, Spain  
+**💼 Availability:** On-site • Hybrid • Remote  
+
+<br>
+
 ---
-
-## 🎯 **Seeking internship opportunities**
-
-I'm seeking internships where I can:
-- ✅ Work on real projects with meaningful impact
-- ✅ Collaborate with teams using best practices
-- ✅ Continue learning and growing professionally
-
-📍 **Viladecans, Barcelona, Spain** | On-site / Hybrid / Remote  
-📅 **Availability:** Immediate
-
-
 
 <div align="center">
 
-### 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolvr8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
+<br>
 
-
-*Thanks for visiting my profile* ✨
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+*Thanks for visiting my profile!* ✨
 
 </div>
