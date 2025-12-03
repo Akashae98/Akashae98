@@ -64,11 +64,9 @@ Second year DAW student focused on expanding my full-stack capabilities:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akashae98&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashae98&layout=compact&theme=default&hide_border=true)
+<div >
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akashae98&show_icons=true&theme=default&hide_border=true) ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashae98&layout=compact&theme=default&hide_border=true)
 
 </div>
 
