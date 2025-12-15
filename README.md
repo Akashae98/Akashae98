@@ -47,7 +47,7 @@ Philosophy graduate who transitioned into web development. I'm passionate about 
 
 An aquarium simulation built with JavaFX that explores design patterns and object-oriented architecture. This project demonstrates my understanding of clean code principles and software design.
 
-**Stack:** Java • JavaFX • OOP • Design Patterns
+**Stack:** Java • JavaFX • OOP • Design Patterns • API QRNG
 
 <br>
 
@@ -74,11 +74,7 @@ Second year DAW student focused on expanding my full-stack capabilities:
 
 ## 💼 Seeking Opportunities
 
-I'm actively seeking internship positions where I can:
-
-- Work on real projects with meaningful impact
-- Collaborate with teams using industry best practices
-- Continue learning and growing as a developer
+I'm actively seeking internship positions where I can work on real projects!
 
 **📍 Location:** Viladecans, Barcelona, Spain  
 **💼 Availability:** On-site • Hybrid • Remote  
