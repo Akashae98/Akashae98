@@ -51,16 +51,6 @@ An aquarium simulation built with JavaFX that explores design patterns and objec
 
 <br>
 
-## 📚 Currently Learning
-
-Second year DAW student focused on expanding my full-stack capabilities:
-
-- **Angular** 
-- **JavaScript** 
-- **PHP** 
-- **Linux Server Administration** — Ubuntu Server, command line, and system management
-
-<br>
 
 ## 📊 GitHub Stats
 
