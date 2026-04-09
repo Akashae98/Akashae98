@@ -48,8 +48,10 @@ Aquarium simulation built with JavaFX exploring OOP architecture and design patt
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akashae98&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashae98&layout=compact&theme=default&hide_border=true)
+| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Akashae98&show_icons=true&theme=default&hide_border=true) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akashae98&layout=compact&theme=default&hide_border=true) |
+|---|---|
+
+
 
 *Thanks for visiting!* ✨
 
