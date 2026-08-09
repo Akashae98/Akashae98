@@ -17,20 +17,20 @@
 
 Philosophy graduate turned web developer.
 
-Recently completed a DAW (Web Application Development) degree, building applications with Java, JavaScript, PHP, Angular, MySQL, Docker, and modern web technologies.
 Passionate about clean code, software architecture, design patterns, and continuous learning.
 
-Currently seeking Junior Java Backend, Full Stack, or Software Developer opportunities.
+Currently working professionally as a developer, combining Next.js and Xano.
 
 ---
 
 ## 🎯 Current Focus
 
+ 
+* Working professionally with **Next.js** and **React** in a production environment
 * Building backend applications with Spring Boot
 * Improving Angular skills
 * Learning Docker and deployment workflows
 * Developing a full-stack Exoplanet Exploration Platform with Spring Boot, PostgreSQL, and Angular
-* Expanding my portfolio with real-world projects
 
 ---
 
@@ -57,6 +57,7 @@ Currently seeking Junior Java Backend, Full Stack, or Software Developer opportu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **AI-Assisted Development** &nbsp;·&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
