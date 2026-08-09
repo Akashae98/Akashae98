@@ -4,6 +4,7 @@
 
 *Philosophy → Code*
 
+**Software Developer & AI Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://prototipo-portfolio-rho.vercel.app/es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/carolina-vilar-rodenas-)
@@ -15,11 +16,11 @@
 
 ## 👩‍💻 About Me
 
-Philosophy graduate turned web developer.
+Philosophy graduate turned developer.
 
 Passionate about clean code, software architecture, design patterns, and continuous learning.
 
-Currently working professionally as a developer, combining Next.js and Xano.
+Currently working professionally as a web developer, combining Next.js and Xano.
 
 ---
 
