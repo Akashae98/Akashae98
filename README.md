@@ -20,7 +20,7 @@ Philosophy graduate turned developer.
 
 Passionate about clean code, software architecture, design patterns, and continuous learning.
 
-Currently working professionally as a web developer, combining Next.js and Xano.
+Currently working professionally as a web developer, combining Next.js and Nest.js.
 
 ---
 
